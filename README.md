@@ -1,26 +1,27 @@
 # Irfan View'er
-Remote for Unified Remote
-for viewing photos
+Irfan remote for Unified Remote for viewing photos.
 
-Features:
-
-- folder browser with navigation
-- full screen
-- manual previous - next image
-- rotate left - right
-- zoom out - in
-- zoom navigation
-- flip horizontal (mirror view)
-- random image in the folder
-- darken - brighten
-- view in greyscale
-- restore original view
-- no delete file button
+## Features
+- Folder browser with navigation
+- Full screen
+- Manual previous - Next image
+- Rotate left - Right
+- Zoom out - In
+- Zoom navigation
+- Flip horizontal (mirror view)
+- Random image in the folder
+- Darken - Brighten
+- View in greyscale
+- Restore original view
+- No delete file button
  
 Long press (onhold) functions:
+- Flip vertical
+- Colour adjustment (saturation)
 
-- flip vertical
-- colour adjustment (saturation)
+## Screenshots
+<img src="screen.png" width="200" alt="Remote in full colour" />
 
-Remote in full colour
-
+## Support
+Developed by **Abrimaal**  
+http://community.unifiedremote.com/topic/42/remote-for-irfan-view
