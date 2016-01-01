@@ -35,11 +35,12 @@ released 2016-01-01
 - Arrows left, down, up, right (zoom navigation)
 
 ###Long press actions
-
+#### Row 1
 - Save modified file in the original folder with -rem suffix (be sure that you set the quality for saving)
 - Exit fullscreen, Irfan View, Close other apps, Turn off PC (Alt+F4)
 - Slideshow start/stop
 
+#### Row 2
 - Maximum saturation (colour intensity)
 - Less saturation
 - More saturation
