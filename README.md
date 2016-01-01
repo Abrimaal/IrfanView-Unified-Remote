@@ -12,9 +12,9 @@ released 2016-01-01
 - Full screen
 - Random image in the folder
  
-View in greyscale
-Less brightness (gamma)
-More brightness (gamma)
+-View in greyscale
+-Less brightness (gamma)
+-More brightness (gamma)
 
 Flip horizontal (mirror view)
 Rotate left
