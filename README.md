@@ -68,6 +68,7 @@ released 2016-01-01
 
 
 #### No delete file button
+(it could be too risky)
 
 ## Screenshots
 <img src="screen.png" width="200" alt="Remote in full colour" />
