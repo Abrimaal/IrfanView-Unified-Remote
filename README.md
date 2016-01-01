@@ -8,26 +8,26 @@ released 2016-01-01
 
 ###Short click actions
 
-- Folder browser with navigation
-- Full screen
-- Random image in the folder
+ Folder browser with navigation
+ Full screen
+ Random image in the folder
  
-- View in greyscale
-- Less brightness (gamma)
-- More brightness (gamma)
+View in greyscale
+Less brightness (gamma)
+More brightness (gamma)
 
-- Flip horizontal (mirror view)
-- Rotate left
-- Rotate right
+Flip horizontal (mirror view)
+Rotate left
+Rotate right
 
-- Previous image
-- Next image
+Previous image
+Next image
  
-- Toggle size / aspect
-- Zoom out 
-- Zoom in
+Toggle image size / aspect
+Zoom out 
+Zoom in
 
-- Arrows (zoom navigation)
+Arrows (zoom navigation)
 
 ###Long press actions
 
