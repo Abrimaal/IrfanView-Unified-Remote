@@ -17,18 +17,22 @@ released 2016-01-01
 - Less brightness (gamma)
 - More brightness (gamma)
 
-Flip horizontal (mirror view)
-Rotate left
-Rotate right
+#### Row 3
+- Flip horizontal (mirror view)
+- Rotate left
+- Rotate right
 
-Previous image
-Next image
- 
-Toggle image size / aspect
-Zoom out 
-Zoom in
+#### Row 4
+- Previous image
+- Next image
 
-Arrows (zoom navigation)
+#### Row 5
+- Toggle image size / aspect
+- Zoom out 
+- Zoom in
+
+#### Row 6
+- Arrows left, down, up, right (zoom navigation)
 
 ###Long press actions
 
