@@ -45,17 +45,21 @@ released 2016-01-01
 - Less saturation
 - More saturation
 
+#### Row 3
 - Flip vertical
 - Rotate left 45 deg
 - Rotate right 45 deg
 
+#### Row 4
 - 5 images back
 - 5 images forward
 
+#### Row 5
 - Reload original image
 - Zoom fit to screen
 - Show original size
 
+#### Row 6
 - Open a defined image (temporarily not working)
 - One folder down
 - One folder up
@@ -63,7 +67,7 @@ released 2016-01-01
 
 
 
-- No delete file button
+#### No delete file button
 
 ## Screenshots
 <img src="screen.png" width="200" alt="Remote in full colour" />
