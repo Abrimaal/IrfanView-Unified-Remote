@@ -8,9 +8,9 @@ released 2016-01-01
 
 ###Short click actions
 
--Folder browser with navigation
--Full screen
--Random image in the folder
+- Folder browser with navigation
+- Full screen
+- Random image in the folder
  
 View in greyscale
 Less brightness (gamma)
