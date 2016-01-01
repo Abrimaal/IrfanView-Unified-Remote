@@ -11,7 +11,7 @@ released 2016-01-01
 - Folder browser with navigation
 - Full screen
 - Random image in the folder
- 
+----
 - View in greyscale
 - Less brightness (gamma)
 - More brightness (gamma)
