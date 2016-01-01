@@ -4,7 +4,7 @@
     <row>
       <button id="open_dir" icon="FOLDER" color="#999900" onTap="open_dir" onhold="save" /> 
       <button id="fullscreen" icon="FULLSCREEN" color="#2233aa" onTap="fullscreen" onhold="exit" />
-	  <button id="random_img" icon="SHUFFLE" color="green"  onTap="random_img" onhold="slideshow"/>
+      <button id="random_img" icon="SHUFFLE" color="green"  onTap="random_img" onhold="slideshow"/>
       
     </row>
     <row>
@@ -23,8 +23,8 @@
       <button id="play_next" icon="ARROWRIGHT" color="#22aa00" onTap="play_next"  onhold="fwd_five" />
     </row>
 	   <row>
-	   <button id="reload" icon="REFRESH" color="red" onTap="toggle_size" onhold="reload" />
-           <button id="zoom_out" icon="ZOOMOUT" color="#550055" onTap="zoom_out" onhold="size_full" />
+      <button id="reload" icon="REFRESH" color="red" onTap="toggle_size" onhold="reload" />
+      <button id="zoom_out" icon="ZOOMOUT" color="#550055" onTap="zoom_out" onhold="size_full" />
       <button id="zoom_in" icon="ZOOMIN" color="#550055" onTap="zoom_in" onhold="size_real" />
 	  </row>
     <row>
