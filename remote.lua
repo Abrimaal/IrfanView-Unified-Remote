@@ -5,12 +5,12 @@ local keyboard = libs.keyboard;
 ------------------------------------------------
 --@help run irfan view - define your installation path
 actions.run_irfan = function()
-	os.start("C:/Program Files/media/IrfanView/i_view32.exe");
+	os.start("C:/Program Files/IrfanView/i_view32.exe");
 end
-	--@help open image in the favourite folder a
+	--@help open image in the favourite folder
 actions.fave_a = function()
 	keyboard.press("o");
-	keyboard.text("E:\\Pixx\\muses\\!collection\\!new0\\07d21.jpg");
+	keyboard.text("E:\\photos\\subfolder\\image.jpg");
 	keyboard.press("enter");
 end
 --@help open browser
