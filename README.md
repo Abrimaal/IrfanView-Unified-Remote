@@ -7,11 +7,11 @@ released 2016-01-01
 ## Features 
 
 ###Short click actions
-
+#### Row 1
 - Folder browser with navigation
 - Full screen
 - Random image in the folder
-----
+#### Row 2
 - View in greyscale
 - Less brightness (gamma)
 - More brightness (gamma)
